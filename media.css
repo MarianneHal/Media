@@ -1,4 +1,4 @@
-@media screen and (min-width: 0) and (max-width: 900px) {
+@media screen and (min-width: 0px) and (max-width: 900px) {
     .container {
         width: 300px;
         height: 600px;
@@ -23,8 +23,10 @@
 .two11 {
     display: none;
 }
+
 .two1 { width: 40%;
-    height: 22%;
+    height: 20%;
+    margin: 5px;
 
 }
 .three {
@@ -37,23 +39,26 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .three11 {
     display: none;
 }
 .three1 {
-    width: 50%;
+    width: 80%;
     height: 18%;
     margin-top: 10px;
 }
 .wrap {
     width: 50%;
-    height: 90%;
+    height: 80%;
 
 }
 .three12 {
     display: block;
     margin: 10px;
+    width: 40%;
+    height: 68%;
 }
 
 }

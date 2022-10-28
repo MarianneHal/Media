@@ -1,0 +1,80 @@
+@media screen and (min-width: 0) and (max-width: 600px) {
+    .container {
+        width: 150px;
+        height: 350px;
+    }
+    .head {
+        height: 3%;
+        margin-bottom: 2px;
+    }
+    .left {
+        display: none;
+    }
+    .container2 {
+        width: 95%;
+    }
+    .right {
+        width: 95%;
+        margin-top: 2px;
+    }
+    .one1 {
+        width: 40%;
+        height: 30%;
+        margin: 2px;
+    }
+    .two11 {
+        display: none;
+    }
+    .two12 {
+        display: none;
+    }
+    .two1 {
+        width: 50%;
+        height: 10%;
+        margin: 2px;
+    }
+    .three {
+        width: 90%;
+        height: 30%;
+        flex-wrap: wrap;
+    }
+    .four {
+        width: 90%;
+        height: 20%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .three11 {
+        display: none;
+    }
+    .three1 {
+        width: 100%;
+        height: 30%;
+        margin-top: 2px;
+        background-color: white;
+    }
+    .wrap {
+        width: 55%;
+        height: 70%;
+
+    }
+    .three12 {
+        display: block;
+        margin: 2px;
+        height: 25%;
+        width: 55%;
+    }
+    .five {
+        height: 5%;
+
+    }
+    .four2 {
+        margin-top: 2px;
+    }
+
+
+
+
+}

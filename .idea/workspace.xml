@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ad43201-6f99-4861-abe5-a492ee4f9cc6" name="Changes" comment="">
+    <list default="true" id="2ad43201-6f99-4861-abe5-a492ee4f9cc6" name="Changes" comment="Ready">
+      <change afterPath="$PROJECT_DIR$/media2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
@@ -54,7 +55,18 @@
       <workItem from="1666942810674" duration="660000" />
       <workItem from="1666943474455" duration="3777000" />
       <workItem from="1666947440191" duration="2837000" />
+      <workItem from="1666950511100" duration="32000" />
+      <workItem from="1666950652579" duration="12000" />
+      <workItem from="1666965720760" duration="2688000" />
     </task>
+    <task id="LOCAL-00001" summary="Ready">
+      <created>1666950522497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666950522497</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready" />
   </component>
 </project>
