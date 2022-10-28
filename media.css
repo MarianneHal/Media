@@ -1,0 +1,59 @@
+@media screen and (min-width: 0) and (max-width: 900px) {
+    .container {
+        width: 300px;
+        height: 600px;
+    }
+    .head {
+        height: 5%;
+    }
+    .left {
+        display: none;
+    }
+    .container2 {
+        width: 95%;
+    }
+    .right {
+        width: 95%;
+    }
+.one1 {
+    width: 40%;
+    height: 30%;
+    margin: 5px;
+}
+.two11 {
+    display: none;
+}
+.two1 { width: 40%;
+    height: 22%;
+
+}
+.three {
+    width: 90%;
+    height: 30%;
+}
+.four {
+    width: 90%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.three11 {
+    display: none;
+}
+.three1 {
+    width: 50%;
+    height: 18%;
+    margin-top: 10px;
+}
+.wrap {
+    width: 50%;
+    height: 90%;
+
+}
+.three12 {
+    display: block;
+    margin: 10px;
+}
+
+}
